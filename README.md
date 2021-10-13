@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bratyslav
 - 👀 I’m interested in Mobile Development and Machine Learning
-- 🌱 I’m currently learning calculus, basic math of ML, Tensorflow
+- 🌱 I’m currently learning Android Development, Kotlin, Java, Flutter
 - 💞️ I’m looking in non-trivial and state-of-the-art projects
 - 📫 How to reach me: telegram @CVABIK
 
