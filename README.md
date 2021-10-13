@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bratyslav
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Mobile Development and Machine Learning
 - 🌱 I’m currently learning calculus, basic math of ML, Tensorflow
-- 💞️ I’m looking to collaborate on ML opensource projects
+- 💞️ I’m looking in non-trivial and state-of-the-art projects
 - 📫 How to reach me: telegram @CVABIK
 
 <!---
