@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bratyslav
 - 👀 I’m interested in Mobile Development and Machine Learning
 - 🌱 I’m currently learning Android Development, Kotlin, Java, Flutter
-- 💞️ I’m looking for non-trivial and state-of-the-art projects
+- 💞️ I'm looking for a position as a Junior Android Developer.
 - 📫 How to reach me:
   * [telegram](https://t.me/CVABIK)
   * [facebook](https://www.facebook.com/profile.php?id=100006806719182)
